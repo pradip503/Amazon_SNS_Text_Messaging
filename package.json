@@ -4,7 +4,7 @@
   "description": "This is a SDK for JS for text messaging using Amazon SNS service.",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon app.js"
+    "start": "node app.js"
   },
   "author": "Pradip Bhattarai",
   "license": "ISC",
